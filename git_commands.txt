@@ -1,0 +1,22 @@
+git clone ...
+git add .
+git add *
+git add -A
+git commit -m "..."
+git rm file
+git remove file
+git branch new_branch
+git checkout branch
+git branch
+git merge branch_name
+git pull
+git push origin branch_name
+git revert commit_id
+git rebase branch_name
+git reset commit_id
+git stage filename
+git stash
+git stash pop
+git stash apply
+git stash drop
+
